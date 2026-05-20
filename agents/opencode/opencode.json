@@ -1,0 +1,14 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    "./opencode-vis-plugin.ts"
+  ],
+  "model": "google/gemini-2.5-flash",
+  "provider": {
+    "google": {
+      "options": {
+        "apiKey": "your-gemini-api-key"
+      }
+    }
+  }
+}
