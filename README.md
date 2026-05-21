@@ -2,6 +2,8 @@
 
 **InsightAgents** is a specialized toolkit designed to track, analyze, and visualize the internal behavior of [Opencode](https://opencode.ai) AI agents. It provides a seamless bridge between agent execution and performance analysis, helping developers optimize context usage, tool reliability, and token efficiency.
 
+![dashboard](./assets/dashboard.png)
+
 ## 🚀 Features
 
 - **Event Logging**: A dedicated plugin for Opencode agents that captures every interaction, tool call, and token metric in real-time.
